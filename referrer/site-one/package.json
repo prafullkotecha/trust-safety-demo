@@ -10,9 +10,9 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.17.1",
-    "lodash": "4.17.16",
-    "pug": "^2.0.4"
+    "express": "^4.20.0",
+    "lodash": "4.17.21",
+    "pug": "^3.0.3"
   },
   "engines": {
     "node": "12.x"
